@@ -36,4 +36,6 @@ int main()
     }else{
         cout << "Not armstrong number\n";
     }
+   return 0;
+   
 }
